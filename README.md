@@ -43,3 +43,12 @@ Pass: 1234 (By Default, User can change if they wish)
 
 
 Ignore the noob level coding. ^_^
+<img width="959" alt="image" src="https://github.com/Nikhil5555/Employee-Management-System/assets/52348118/0885db17-8f5c-4ce9-b285-3a48c7e48dcc">
+<img width="960" alt="image" src="https://github.com/Nikhil5555/Employee-Management-System/assets/52348118/1b0d33b8-09dd-4578-a980-9d6977eaffb9">
+<img width="945" alt="image" src="https://github.com/Nikhil5555/Employee-Management-System/assets/52348118/708f15ed-ecdc-4819-b126-4ecf7bf98b8d">
+<img width="947" alt="image" src="https://github.com/Nikhil5555/Employee-Management-System/assets/52348118/fdd137e8-32c5-4270-8797-e30cfefb726e">
+<img width="960" alt="image" src="https://github.com/Nikhil5555/Employee-Management-System/assets/52348118/d681dea4-2790-437d-815b-2c686c88ee6d">
+<img width="943" alt="image" src="https://github.com/Nikhil5555/Employee-Management-System/assets/52348118/151b8e8e-6af1-4e20-ab70-fa4215ad64b4">
+
+
+
